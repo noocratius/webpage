@@ -1,0 +1,22 @@
+#qr-float {
+    color: darkslateblue;
+}
+
+body {
+    background-color: lightblue;
+}
+
+/* #qr-float::after {
+    content: 'aaaaa';
+    display: block;
+    width: 3em;
+    height: 3em;
+} */
+
+#qr {
+    display: none;
+}
+
+#qr_float:hover {
+    display: block;
+}
