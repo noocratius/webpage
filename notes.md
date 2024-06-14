@@ -6,4 +6,4 @@ language: en
 
 # General notes
 
-Here, I'm going to wirte some general notes about my work.
+Here, I'm going to write some general notes about my work.
