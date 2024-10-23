@@ -1,22 +1,33 @@
-#qr-float {
-    color: darkslateblue;
-}
-
 body {
-    background-color: lightblue;
+    font-family: system-ui, sans-serif;
+    font-size: 1rem;
+    line-height: 1.7;
+    color: #161616;
+    background-color: #f3f3f3;
 }
 
-/* #qr-float::after {
-    content: 'aaaaa';
-    display: block;
-    width: 3em;
-    height: 3em;
-} */
-
-#qr {
-    display: none;
+.header {
+    background-color: #fff;
+    padding: 1.25rem;
 }
 
-#qr_float:hover {
-    display: block;
+.footer {
+    background-color: #fff;
+    padding: 1.25rem;
+}
+
+.main {
+    padding: 1.25rem;
+}
+
+.sidebar {
+    color: #fff;
+    background-color: #1d1d29;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    font-size: 3rem;
+    line-height: 1.3;
 }
